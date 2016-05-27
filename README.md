@@ -9,8 +9,8 @@ Follow the tutorial at the Bot Framework site and be sure to download the Bot Em
 ## Usage
 Several environment variables are needed to be passed to the bot.
 
-- appId - Your Bot AppId from the Bot Framework site.
-- appSecret - Your Bot AppSecret from the Bot Framework site.
-- dataFilePath - The location of the json file containing the session data.
-- timeZone - The time zone which the bot will work with. For example: "+0200"
-- luisEndpoint - this is the API endpoint of  your luis app from luis.ai
+- * appId * - Your Bot AppId from the Bot Framework site.
+- * appSecret * - Your Bot AppSecret from the Bot Framework site.
+- * dataFilePath * - The location of the json file containing the session data.
+- * timeZone * - The time zone which the bot will work with. For example: "+0200"
+- * luisEndpoint * - this is the API endpoint of  your luis app from luis.ai
