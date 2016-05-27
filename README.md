@@ -3,7 +3,7 @@ Agenda Bot is a chat bot built upon Bot Framework by Microsoft. Agenda Bot will 
 
 
 ## Prerequisites
-First, you'll need to register your bot at dev.botframework.com, and a LUIS account at luis.ai.
+First, you'll need to [register your bot](dev.botframework.com), and  create a [LUIS account](luis.ai).
 Follow the tutorial at the Bot Framework site and be sure to download the Bot Emulator to debug your bot.
 
 ## Usage
