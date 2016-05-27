@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "name": "Intorudction",
+        "speaker": "Assaf Jacoby",
+        "startTime": "10:30",
+        "endTime": "10:45"
+    },
+    {
+        "id": 1,
+        "name": "Journey to the Cloud",
+        "speaker": "Scott Guthrie",
+        "startTime": "10:45",
+        "endTime": "11:45"
+    },
+    {
+        "id": 2,
+        "name": "Architecture on the Fly",
+        "speaker": "Yaron and Itay",
+        "startTime": "11:45",
+        "endTime": "12:20"
+    },
+    {
+        "id": 3,
+        "name": "Networking and goodbye",
+        "startTime": "12:25",
+        "endTime": "13:15"
+    }
+]

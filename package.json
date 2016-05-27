@@ -1,0 +1,16 @@
+{
+  "name": "ctobot",
+  "version": "1.0.0",
+  "description": "Microsoft CTO Breakfast club Demo Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^0.11.1",
+    "moment": "^2.13.0",
+    "restify": "^4.1.0"
+  }
+}

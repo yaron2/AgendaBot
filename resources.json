@@ -1,0 +1,8 @@
+ {
+        "hi": "Hello there, I'm the CTO Breakfast agenda bot. What's your name?",
+        "noNameFound": "I can't recognize you. Go away.",
+        "food": "You have nice restaurants here",
+        "wantsFood": "I won't make food, but you have nice restaurants here",
+        "noNextSession": "You are the last session",
+        "hiGuest": "What would you like to know?"
+ }
